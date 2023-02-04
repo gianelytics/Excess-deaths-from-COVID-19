@@ -11,7 +11,7 @@ En este proyecto se realizó un análisis utilizando hojas de cálculo a partir 
 
 ![](/Dataset.jpg)
 
-## Reporte- Video solución
+## Reporte- Solución
 
 💻 [Proyecto 1: Covid 19](https://docs.google.com/spreadsheets/d/1z_5tLzyiPQmqnMquNthWczizpZG9ppexiPt8yat5DMs/edit?usp=sharing)
 
@@ -21,15 +21,19 @@ Contenido:
   - Un gráfico que muestra los datos de la tabla anterior en forma de gráfico de barras.
   - Un gráfico por cada país que muestra el comparativo de la evolución en el tiempo de las muertes reportadas COVID-19 vs. el cálculo de “exceso de muertes” semana a semana.
   - Un gráfico por cada país que muestra las mismas variables que el punto anterior, pero acumuladas en el tiempo.
-  
-<div align="center">
 
-![](https://cdn.loom.com/sessions/thumbnails/1cf81c035e6a44459233d21f4ef94abd-1644468351800-with-play.gif) 
+<div align="center">
+  
+  <a target="_blank" href="https://www.loom.com/share/1cf81c035e6a44459233d21f4ef94abd" rel="noopener noreferrer" >![](https://cdn.loom.com/sessions/thumbnails/1cf81c035e6a44459233d21f4ef94abd-1644468351800-with-play.gif)</a>
+  
 </div>
 
 ## Objetivos del proyecto
 
-- ✨Organizar datos en hojas de cálculo
-- ✨Manipular datos en hojas de cálculo
-- ✨Visualizar datos en hojas de cálculo
-- ✨Organizar y comunicar hallazgos
+✨Organizar datos en hojas de cálculo
+
+✨Manipular datos en hojas de cálculo
+
+✨Visualizar datos en hojas de cálculo
+
+✨Organizar y comunicar hallazgos
