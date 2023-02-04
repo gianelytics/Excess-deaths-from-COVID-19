@@ -21,10 +21,11 @@ Contenido:
   - Un gráfico que muestra los datos de la tabla anterior en forma de gráfico de barras.
   - Un gráfico por cada país que muestra el comparativo de la evolución en el tiempo de las muertes reportadas COVID-19 vs. el cálculo de “exceso de muertes” semana a semana.
   - Un gráfico por cada país que muestra las mismas variables que el punto anterior, pero acumuladas en el tiempo.
-    
-🎥 [Presentación](https://www.loom.com/share/1cf81c035e6a44459233d21f4ef94abd)</h3>
+  
+<div align="center">
 
-![](/Entregable.jpg)
+![](https://cdn.loom.com/sessions/thumbnails/1cf81c035e6a44459233d21f4ef94abd-1644468351800-with-play.gif) 
+</div>
 
 ## Objetivos del proyecto
 
