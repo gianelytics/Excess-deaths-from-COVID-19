@@ -28,7 +28,9 @@ Un grupo de personas reflexionan acerca del impacto de la pandemia en Latinoamé
 
 En este proyecto se realizó un análisis utilizando hojas de cálculo a partir de un conjunto de datos sobre las muertes de COVID-19 en 5 países de latinoamérica.
 
-💻 [Proyecto 1: Reporte](https://docs.google.com/spreadsheets/d/1z_5tLzyiPQmqnMquNthWczizpZG9ppexiPt8yat5DMs/edit?usp=sharing)
+<h3 align="left"> <a href="https://docs.google.com/spreadsheets/d/1z_5tLzyiPQmqnMquNthWczizpZG9ppexiPt8yat5DMs/edit?usp=sharing">💻Proyecto 1: Reporte</a>
+</h3>
+
 
 ## Solución
 <div align="center">
