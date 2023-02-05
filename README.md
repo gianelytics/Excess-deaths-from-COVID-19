@@ -26,7 +26,7 @@ Un grupo de personas reflexionan acerca del impacto de la pandemia en Latinoamé
 
     Estimación de las muertes por COVID 19 en Latinoamérica.
 
-En este proyecto se realizó un análisis utilizando hojas de cálculo a partir de un conjunto de datos sobre las muertes de COVID-19 en 5 países de latinoamérica.
+> En este proyecto se realizó un análisis utilizando hojas de cálculo a partir de un conjunto de datos sobre las muertes de COVID-19 en 5 países de latinoamérica.
 
 <h3 align="left"> <a href="https://docs.google.com/spreadsheets/d/1z_5tLzyiPQmqnMquNthWczizpZG9ppexiPt8yat5DMs/edit?usp=sharing">💻Proyecto 1: Reporte</a>
 </h3>
