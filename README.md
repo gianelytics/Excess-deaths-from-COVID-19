@@ -18,7 +18,7 @@ Proyecto realizado en el bootcamp de [Laboratoria](https://app.laboratoria.la/si
 
 ## Contexto
 
-Un grupo de personas reflexionan acerca del impacto de la pandemia en Latinoamérica. En este proyecto se deberá calcular el total acumulado de muertes reportadas por COVID-19 y hacer un ranking de los países mas afectados. 
+> Un grupo de personas reflexionan acerca del impacto de la pandemia en Latinoamérica. En este proyecto se deberá calcular el total acumulado de muertes reportadas por COVID-19 y hacer un ranking de los países mas afectados. 
 
 ![](/Dataset.jpg)
 
