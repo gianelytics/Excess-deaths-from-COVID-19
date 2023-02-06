@@ -2,7 +2,7 @@
 
 ![](/Portada.jpg)
 
-Project carried out in the [Laboratoria](https://app.laboratoria.la/signup-and-login/) and IBM bootcamp
+Project carried out in the bootcamp of [Laboratoria](https://app.laboratoria.la/signup-and-login/) and IBM 
 
 </div>
 
