@@ -28,7 +28,7 @@ Proyecto realizado en el bootcamp de [Laboratoria](https://app.laboratoria.la/si
 
 > En este proyecto se realizó un análisis utilizando hojas de cálculo a partir de un conjunto de datos sobre las muertes de COVID-19 en 5 países de latinoamérica.
 
-> <h4 align="left"> <a href="https://docs.google.com/spreadsheets/d/1z_5tLzyiPQmqnMquNthWczizpZG9ppexiPt8yat5DMs/edit?usp=sharing">💻Proyecto 1: Reporte Google Sheets</a>
+> <h4 align="left"> <a href="https://docs.google.com/spreadsheets/d/1z_5tLzyiPQmqnMquNthWczizpZG9ppexiPt8yat5DMs/edit?usp=sharing">💻Proyecto: Reporte Google Sheets</a>
 </h4>
 
 
