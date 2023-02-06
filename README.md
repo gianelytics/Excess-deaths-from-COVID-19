@@ -1,48 +1,54 @@
-<div align="center"> <h1>Exceso de Muertes por COVID-19 </h1> 
+<div align="center"> <h1>Excess deaths from COVID-19 </h1> 
 
 ![](/Portada.jpg)
 
-Proyecto realizado en el bootcamp de [Laboratoria](https://app.laboratoria.la/signup-and-login/) e IBM
+Project carried out in the [Laboratoria](https://app.laboratoria.la/signup-and-login/) and IBM bootcamp
+
 </div>
 
-## Objetivos del proyecto
+❕ [SEE VERSION SPANISH EDITION](https://github.com/gianelytics/Data-analytics-Project-1/blob/47ef32d424533db66e2881ba95f369734c01514c/README.md)
 
-✨Organizar datos en hojas de cálculo
+## 🎓 Project Objectives
 
-✨Manipular datos en hojas de cálculo
+✨ Organize data in spreadsheets
 
-✨Visualizar datos en hojas de cálculo
+✨ Manipulate data in spreadsheets
 
-✨Organizar y comunicar hallazgos
+✨ Visualize data in spreadsheets
+
+✨ Organize and communicate findings
 
 
-## Contexto
 
-> Un grupo de personas reflexionan acerca del impacto de la pandemia en Latinoamérica. En este proyecto se deberá calcular el total acumulado de muertes reportadas por COVID-19 y hacer un ranking de los países mas afectados. 
+## 📌 Context
+
+>A group of people reflect on the impact of the pandemic in Latin America. In this project, the total number of deaths reported due to COVID-19 should be calculated and a ranking of the most affected countries should be made.
 
 ![](/Dataset.jpg)
 
-## Reporte
 
-    Estimación de las muertes por COVID 19 en Latinoamérica.
+## 🔎 Report
 
-> En este proyecto se realizó un análisis utilizando hojas de cálculo a partir de un conjunto de datos sobre las muertes de COVID-19 en 5 países de latinoamérica.
+Estimation of COVID-19 deaths in Latin America.
 
-<h4 align="left"> <a href="https://docs.google.com/spreadsheets/d/1z_5tLzyiPQmqnMquNthWczizpZG9ppexiPt8yat5DMs/edit?usp=sharing">💻Proyecto 1: Reporte Google Sheets</a>
+>In this project, an analysis was carried out using spreadsheets from a set of data on COVID-19 deaths in 5 Latin American countries.
+
+><h4 align="left"> <a href="https://docs.google.com/spreadsheets/d/1z_5tLzyiPQmqnMquNthWczizpZG9ppexiPt8yat5DMs/edit?usp=sharing">💻Project 1: Google Sheets Report</a>
 </h4>
 
 
-## Solución
+
+## 💡 Solution
 <div align="center">
   
   <a target="_blank" href="https://www.loom.com/share/1cf81c035e6a44459233d21f4ef94abd" rel="noopener noreferrer" >![](https://cdn.loom.com/sessions/thumbnails/1cf81c035e6a44459233d21f4ef94abd-1644468351800-with-play.gif)</a>
   
 </div>
 
-Contenido:
-  
-  - Una tabla comparativa con el total de muertes reportadas por COVID-19 por cada 100 mil habitantes, el total de “exceso de muertes” por cada 100 mil habitantes y la diferencia entre ambas cifras, por país.
-  - Un gráfico que muestra los datos de la tabla anterior en forma de gráfico de barras.
-  - Un gráfico por cada país que muestra el comparativo de la evolución en el tiempo de las muertes reportadas COVID-19 vs. el cálculo de “exceso de muertes” semana a semana.
-  - Un gráfico por cada país que muestra las mismas variables que el punto anterior, pero acumuladas en el tiempo.
+### 📄 Content:
+
+- A comparative table with the total of deaths reported from COVID-19 per 100 thousand inhabitants, the total of "excess deaths" per 100 thousand inhabitants, and the difference between both figures, by country.
+- A chart that shows the data from the above table in the form of a bar graph.
+- A chart for each country that shows the comparison of the evolution in time of the reported COVID-19 deaths vs. the calculation of "excess deaths" week by week.
+- A chart for each country that shows the same variables as the previous point, but accumulated over time.
 
