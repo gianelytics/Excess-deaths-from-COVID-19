@@ -33,7 +33,7 @@ Project carried out in the bootcamp of [Laboratoria](https://app.laboratoria.la/
 
 >In this project, an analysis was carried out using spreadsheets from a set of data on COVID-19 deaths in 5 Latin American countries.
 
-><h4 align="left"> <a href="https://docs.google.com/spreadsheets/d/1z_5tLzyiPQmqnMquNthWczizpZG9ppexiPt8yat5DMs/edit?usp=sharing">💻Project 1: Google Sheets Report</a>
+><h4 align="left"> <a href="https://docs.google.com/spreadsheets/d/1z_5tLzyiPQmqnMquNthWczizpZG9ppexiPt8yat5DMs/edit?usp=sharing">💻Project: Google Sheets Report</a>
 </h4>
 
 
