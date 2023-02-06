@@ -29,7 +29,7 @@ Project carried out in the [Laboratoria](https://app.laboratoria.la/signup-and-l
 
 ## 🔎 Report
 
-Estimation of COVID-19 deaths in Latin America.
+    Estimation of COVID-19 deaths in Latin America.
 
 >In this project, an analysis was carried out using spreadsheets from a set of data on COVID-19 deaths in 5 Latin American countries.
 
